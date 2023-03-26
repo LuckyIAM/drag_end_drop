@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Человек1",
+        "start": "6.03.2023",
+        "end": "7.03.2023",
+        "status": "work",
+        "tiket": "something",
+        "sorted": false
+    },
+    {
+        "name": "Человек2",
+        "start": "3.04.2023",
+        "end": "7.04.2023",
+        "status": "vacation",
+        "tiket": "something2",
+        "sorted": false
+    },
+    {
+        "name": "Человек2",
+        "start": "1.04.2023",
+        "end": "3.04.2023",
+        "status": "work",
+        "tiket": "something2",
+        "sorted": false
+    
+    },
+    {
+        "name": "Человек3",
+        "start": "2.04.2023",
+        "end": "4.0.2023",
+        "status": "work",
+        "tiket": "something3",
+        "sorted": false
+    },
+    {
+        "name": "Человек1",
+        "start": "5.03.2023",
+        "end": "7.03.2023",
+        "status": "work",
+        "tiket": "something",
+        "sorted": false
+    }
+]
